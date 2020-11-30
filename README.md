@@ -3,4 +3,4 @@ Portfolio for Web Design and Development
 
 work in progress  
 ToDo:  
-*Finish HTML scaffolding with semantic tags.
+*create projects.html with html skeleton
