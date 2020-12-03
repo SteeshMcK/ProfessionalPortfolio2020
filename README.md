@@ -3,4 +3,4 @@ Portfolio for Web Design and Development
 
 work in progress  
 ToDo:  
-*create sass variables 
+*continue styles for index.html in mobile view"
