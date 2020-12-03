@@ -1,0 +1,28 @@
+:root {
+    --headline-font: 'Special Elite', cursive;
+}
+
+body {
+    font-family: var(--headline-font);
+}
+
+header {
+    background-color: #060606;
+}
+
+.contactNavDiv {
+    width: 80%;
+    margin: auto;
+    color: #999999;
+    text-align: center;
+}
+
+.contactNavDiv p {
+    padding: 10px;
+}
+
+.titleHero {
+    width: 80%;
+    margin: auto;
+    display: none;
+}
