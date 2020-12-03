@@ -1,19 +1,18 @@
-:root {
-    --headline-font: 'Special Elite', cursive;
-}
+@import "./reset";
+@import "./variables";
 
 body {
-    font-family: var(--headline-font);
+    font-family: $cursive-font;
 }
 
 header {
-    background-color: #060606;
+    background-color: $primary-dark;
 }
 
 .contactNavDiv {
     width: 80%;
     margin: auto;
-    color: #999999;
+    color: $primary-light;
     text-align: center;
 }
 
