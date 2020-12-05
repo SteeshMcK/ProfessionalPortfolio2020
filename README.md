@@ -1,7 +1,7 @@
 # ProfessionalPortfolio2020
 Portfolio for Web Design and Development
 
-Built using: HTML5, SASS, Node.js, ...
+Built using: HTML5, SASS, Node.js, Express.js...
 
 work in progress  
 ToDo:  
