@@ -5,9 +5,10 @@ Built using: HTML5, SASS, Node.js, ...
 
 work in progress  
 ToDo:  
-*Install Express and build server
-*Rebuild App files structure
-*continue styles for index.html in mobile view"
+*connect styles to index.html"  
+Getting Error: Resource interpreted as Stylesheet but transferred with MIME type text/html  
+Network gives status 200
+(files in question are reset.css and main.css)
 
 Note to self: remember to click "Watch Sass" in bottom bar of VS CODE.
 
